@@ -24,7 +24,7 @@
 ## Getting Started
 
 -  Clone this repository to your local machine.
-    - git clone https://github.com/Niteshthori24198/Code-Convertor
+    - git clone [https://github.com/Mrkishansharma/code-converter](https://github.com/Mrkishansharma/code-converter)
 -  Navigate to the project directory.
     - cd code-converter
 -  Install the required dependencies.
